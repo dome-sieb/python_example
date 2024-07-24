@@ -5,3 +5,6 @@
 #Zaehlerschleife
 for element in range(4,15, 2):
     print(element)
+
+print("Das ist eine Ausgabe")
+
