@@ -17,3 +17,9 @@ def add(a, b):                  #Funktion mit Rueckgabewert
     return a + b                #Funktion mit Rueckgabewert
 
 say_hello()                     #Funktion aufrufen
+
+say_hello(name)
+    print("Hallo" +name)
+    print("Willkommen zurueck")
+
+say_hello("Dome")
