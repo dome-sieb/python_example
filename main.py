@@ -1,8 +1,7 @@
 print("Hallo Welt ich lerne gerade programmieren")
 print("Hallo Welt ich lerne gerade programmieren")
 # das ist unser Hallo Welt programm ;)
-#Ich muss kacken :D
-#ich war Kacken :D
+
 #Ganzzahlrechnung
 print(15+5)
 print(15-5)
