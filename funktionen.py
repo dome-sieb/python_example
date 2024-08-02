@@ -23,3 +23,7 @@ say_hello(name)
     print("Willkommen zurueck")
 
 say_hello("Dome")
+
+def say_hello(first_name, last_name):
+    print("Hello " + first_name + " " + last_name)
+    print("Willkommen zurueck")
